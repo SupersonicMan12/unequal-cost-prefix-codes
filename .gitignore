@@ -1,0 +1,12 @@
+# Ignore everything except the paper PDF, the code folder and the README
+/*
+!/.gitignore
+!/README.md
+!/main.pdf
+!/main.tex
+!/Huffmantree.png
+!/code/
+
+.DS_Store
+*.o
+*.out.tmp
